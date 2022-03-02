@@ -1,0 +1,24 @@
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+.buttons button {
+    margin-top: 1rem;
+    outline: none;
+    border: none;
+  font-size: 16px;
+  background-color: #f7fca0;
+  color: #878b32;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: 0.3s ease all;
+  padding: 6px 12px;
+  margin-right: 1rem;
+}
+.Counter{
+    text-align: center;
+}
